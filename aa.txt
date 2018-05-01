@@ -3,5 +3,5 @@ master修改了
 
 
 func say(i int)(rst string){
-  fmt.printf("qqqqqqqqqqqq\n")
+  fmt.printf("qqqqqppppqqq\n")
 }
